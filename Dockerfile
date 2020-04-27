@@ -1,6 +1,6 @@
-FROM ubuntu
+FROM ubuntu:bionic
 
-MAINTAINER openkbs.org@gmail.com
+MAINTAINER danyel.nerv@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
 
